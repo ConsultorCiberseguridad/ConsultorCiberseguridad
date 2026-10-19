@@ -7,7 +7,7 @@
 :white_check_mark:    Licenciado en Informatica           
 :white_check_mark:    Profesor de Informatica             
 :white_check_mark:    Especialista en Cibercrimen          
- :arrow_right:         Maestrando Ciberdefensa y Ciberseguridad 
+ :arrow_right:        Maestrando Ciberdefensa y Ciberseguridad 
 
 
 <h3 align="left"">Tecnologias y lenguajes:</h3>
