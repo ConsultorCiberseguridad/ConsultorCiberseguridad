@@ -23,7 +23,7 @@
 
 <h3 align="left"">Tecnicas que practico para buscar vulnerabilidades en el software:</h3>
 
-:bookmark:   Análisis estático - SAST                
+:bookmark:   Análisis estático - SAST     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>           
 :bookmark:   Análisis dinámico - DAST    
 :bookmark:   Análisis de composicion - SCA       
 :bookmark:   Análisis interactivo - IAST           
