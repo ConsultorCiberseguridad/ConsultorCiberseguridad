@@ -4,14 +4,18 @@
 
 <h3 align="left">Formación:</h3>
 
-:white_check_mark: Analista programador<br/>
-:white_check_mark: Analista de sistemas de computación<br/>
-:white_check_mark: Licenciado en Informática<br/>
-:white_check_mark: Profesor de Informática<br/>
-:white_check_mark: Especialista en Cibercrimen<br/>
-:arrow_right: Maestrando en Ciberdefensa y Ciberseguridad<br/>
+:white_check_mark: Analista programador  
+:white_check_mark: Analista de sistemas de computación  
+:white_check_mark: Licenciado en Informática  
+:white_check_mark: Profesor de Informática  
+:white_check_mark: Especialista en Cibercrimen  
+:arrow_right: Maestrando en Ciberdefensa y Ciberseguridad  
+
+---
 
 <h3 align="left">Tecnologías y lenguajes:</h3>
+
+**Frontend**
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -23,9 +27,19 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </a>
+</p>
+
+**Backend**
+
+<p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
+</p>
+
+**Bases de datos**
+
+<p align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </a>
@@ -35,6 +49,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
+</p>
+
+**Control de versiones y otras tecnologías**
+
+<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
@@ -46,43 +65,31 @@
 </a>
 </p>
 
+---
+
 <h3 align="left">Técnicas de análisis de seguridad de aplicaciones:</h3>
 
-:bookmark: Análisis estático de código - SAST<br/>
-:bookmark: Análisis dinámico de aplicaciones - DAST<br/>
-:bookmark: Análisis de composición de software - SCA<br/>
-:bookmark: Análisis de componentes y dependencias - SBOM<br/>
-:bookmark: Pruebas manuales de seguridad web<br/>
-:bookmark: Pentesting de aplicaciones web<br/>
-:bookmark: Gestión de vulnerabilidades<br/>
-:bookmark: Protección de aplicaciones web - WAF<br/>
+:bookmark: Análisis estático de código - SAST  
+:bookmark: Análisis dinámico de aplicaciones - DAST  
+:bookmark: Análisis de composición de software - SCA  
+:bookmark: Análisis de componentes y dependencias - SBOM  
+:bookmark: Pruebas manuales de seguridad web  
+:bookmark: Pentesting de aplicaciones web  
+:bookmark: Gestión de vulnerabilidades  
+:bookmark: Protección de aplicaciones web - WAF  
+
+---
 
 <h3 align="left">Herramientas de seguridad:</h3>
 
-<p align="left">
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/sonarqube" alt="SonarQube" width="40" height="40"/>
-</a>
-<a href="https://semgrep.dev/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/semgrep" alt="Semgrep" width="40" height="40"/>
-</a>
-<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/zap" alt="OWASP ZAP" width="40" height="40"/>
-</a>
-<a href="https://github.com/wapiti-scanner/wapiti" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/python" alt="Wapiti" width="40" height="40"/>
-</a>
-<a href="https://owasp.org/www-project-dependency-check/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/owasp" alt="Dependency-Check" width="40" height="40"/>
-</a>
-<a href="https://dependencytrack.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.png" alt="Dependency-Track" width="40" height="40"/>
-</a>
-<a href="https://owasp.org/www-project-defectdojo/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/owasp" alt="DefectDojo" width="40" height="40"/>
-</a>
-<a href="https://modsecurity.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/nginx" alt="ModSecurity" width="40" height="40"/>
-</a>
-</p>
+| Icono | Herramienta | Área |
+|:---:|---|---|
+| <img src="https://cdn.simpleicons.org/sonarqube" width="30" height="30" alt="SonarQube"/> | **SonarQube** | SAST |
+| <img src="https://cdn.simpleicons.org/semgrep" width="30" height="30" alt="Semgrep"/> | **Semgrep** | SAST |
+| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **OWASP ZAP** | DAST |
+| <img src="https://cdn.simpleicons.org/python" width="30" height="30" alt="Python"/> | **Wapiti** | DAST complementario |
+| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **Dependency-Check** | SCA |
+| <img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.png" width="30" height="30" alt="Dependency-Track"/> | **Dependency-Track** | SBOM |
+| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **DefectDojo** | Gestión de vulnerabilidades |
+| <img src="https://cdn.simpleicons.org/nginx" width="30" height="30" alt="Nginx"/> | **ModSecurity** | WAF |
 
