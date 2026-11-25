@@ -56,7 +56,7 @@
   &nbsp;
   <img src="./assets/semgrep.png" width="38" height="38" alt="semgrep"/>
   &nbsp;
-  <img src="./assets/zap.svg" width="55" height="55" alt="OWASP ZAP"/>
+  <img src="./assets/zap.svg" width="70" height="70" alt="OWASP ZAP"/>
   &nbsp;
   <img src="./assets/wapiti.png" width="45" height="45" alt="Wapiti"/>
   &nbsp;
@@ -66,7 +66,7 @@
   &nbsp;
   <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="./assets/modsecurity.png" width="70" height="70" alt="modsecurity"/>
+  <img src="./assets/modsecurity.png" width="80" height="80" alt="modsecurity"/>
 </p>
 
 
