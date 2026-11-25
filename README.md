@@ -51,22 +51,23 @@
 :bookmark:   Protección de aplicaciones web - WAF
 
 
+
 <p align="left">
-  <img src="./assets/sonarqube.svg" width="60" height="60" alt="SonarQube"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
   &nbsp;
-  <img src="./assets/semgrep.png" width="38" height="38" alt="semgrep"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/semgrep.svg" width="38" height="38" alt="Semgrep"/>
   &nbsp;
-  <img src="./assets/zap.svg" width="70" height="70" alt="OWASP ZAP"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
   &nbsp;
-  <img src="./assets/wapiti.png" width="45" height="45" alt="Wapiti"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
   &nbsp;
-  <img src="./assets/dependencycheck.png" width="38" height="38" alt="Dependency-Check"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
   &nbsp;
-  <img src="./assets/dependencyTrack.png" width="38" height="38" alt="Dependency-Track"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
   &nbsp;
-  <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="./assets/modsecurity.png" width="80" height="80" alt="modsecurity"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
 </p>
 
 
