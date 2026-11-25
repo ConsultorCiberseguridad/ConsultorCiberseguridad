@@ -54,7 +54,7 @@
 <p align="left">
   <img src="./assets/sonarqube.svg" width="55" height="55" alt="SonarQube"/>
   &nbsp;
-  <img src="./assets/semgrep.svg" width="38" height="38" alt="Semgrep"/>
+  <img src="./assets/semgrep.svg" width="38" height="38" alt="semgrep"/>
   &nbsp;
   <img src="./assets/zap.svg" width="55" height="55" alt="OWASP ZAP"/>
   &nbsp;
@@ -66,7 +66,7 @@
   &nbsp;
   <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="./assets/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
+  <img src="./assets/modsecurity.png" width="38" height="38" alt="modsecurity"/>
 </p>
 
 
