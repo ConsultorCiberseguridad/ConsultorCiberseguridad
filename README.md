@@ -41,11 +41,16 @@
 
 <h3 align="left"">Tecnicas que practico para buscar vulnerabilidades en el software:</h3>
 
-:bookmark:   Análisis estático de código - SAST
-:bookmark:   Análisis dinámico de aplicaciones - DAST
-:bookmark:   Análisis de composición de software - SCA
-:bookmark:   Análisis de componentes y dependencias - SBOM
+:bookmark:   Análisis estático de código - SAST                                
+:bookmark:   Análisis dinámico de aplicaciones - DAST    
+:bookmark:   Análisis de composición de software - SCA      
+:bookmark:   Análisis de componentes y dependencias - SBOM           
 :bookmark:   Gestión y análisis de vulnerabilidades
-:bookmark:   Pruebas manuales de seguridad web
+:bookmark:   Pruebas manuales de seguridad web           
 :bookmark:   Pentesting de aplicaciones web
 :bookmark:   Protección de aplicaciones web - WAF
+
+
+
+
+
