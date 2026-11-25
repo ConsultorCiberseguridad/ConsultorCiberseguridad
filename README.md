@@ -52,7 +52,7 @@
 
 
 <p align="left">
-  <img src="./assets/icons/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
+  <img src="./assets/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
   &nbsp;
   <img src="./assets/icons/semgrep.svg" width="38" height="38" alt="Semgrep"/>
   &nbsp;
