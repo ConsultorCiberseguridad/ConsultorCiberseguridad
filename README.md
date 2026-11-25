@@ -39,71 +39,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
 </p>
 
+<h3 align="left"">Tecnicas que practico para buscar vulnerabilidades en el software:</h3>
 
-
-<table width="100%" border="0">
-  <tr>
-    <!-- COLUMNA IZQUIERDA -->
-    <td width="55%" valign="top" align="left">
-      <h3 align="left">Técnicas que practico para buscar vulnerabilidades en el software:</h3>
-
-      :bookmark: Análisis estático - SAST
-
-      :bookmark: Análisis dinámico - DAST
-
-      :bookmark: Análisis de composición - SCA
-
-      :bookmark: Análisis interactivo - IAST
-
-      :bookmark: Pentesting Web
-    </td>
-
-    <!-- COLUMNA DERECHA -->
-    <td width="45%" valign="middle" align="center">
-      <h3 align="center">Herramientas de seguridad</h3>
-
-      <table border="0" align="center">
-        <tr>
-          <td align="center"><img src="./assets/icons/sonarqube.svg" width="28"></td>
-          <td>SonarQube</td>
-          <td>SAST</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/semgrep.svg" width="28"></td>
-          <td>Semgrep</td>
-          <td>SAST</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/zap.svg" width="28"></td>
-          <td>OWASP ZAP</td>
-          <td>DAST</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/wapiti.png" width="28"></td>
-          <td>Wapiti</td>
-          <td>DAST</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/dependency-check.png" width="28"></td>
-          <td>Dependency-Check</td>
-          <td>SCA</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/dependency-track.png" width="28"></td>
-          <td>Dependency-Track</td>
-          <td>SBOM</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/defectdojo.png" width="28"></td>
-          <td>DefectDojo</td>
-          <td>Gestión</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="./assets/icons/modsecurity.png" width="28"></td>
-          <td>ModSecurity</td>
-          <td>WAF</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+:bookmark:   Análisis estático - SAST                                
+:bookmark:   Análisis dinámico - DAST    
+:bookmark:   Análisis de composicion - SCA       
+:bookmark:   Análisis interactivo - IAST           
+:bookmark:   Pentensting Web
