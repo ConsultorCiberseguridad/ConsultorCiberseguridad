@@ -11,11 +11,7 @@
 :white_check_mark: Especialista en Cibercrimen  
 :arrow_right: Maestrando en Ciberdefensa y Ciberseguridad  
 
----
-
 <h3 align="left">Tecnologías y lenguajes:</h3>
-
-**Frontend**
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -29,15 +25,11 @@
 </a>
 </p>
 
-**Backend**
-
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 </p>
-
-**Bases de datos**
 
 <p align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
@@ -50,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 </p>
-
-**Control de versiones y otras tecnologías**
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -74,31 +64,23 @@
 </a>
 </p>
 
----
-
 <h3 align="left">Técnicas de análisis de seguridad de aplicaciones:</h3>
 
-:bookmark: Análisis estático de código - SAST  
-:bookmark: Análisis dinámico de aplicaciones - DAST  
-:bookmark: Análisis de composición de software - SCA  
-:bookmark: Análisis de componentes y dependencias - SBOM  
-:bookmark: Pruebas manuales de seguridad web  
-:bookmark: Pentesting de aplicaciones web  
-:bookmark: Gestión de vulnerabilidades  
-:bookmark: Protección de aplicaciones web - WAF  
+:bookmark: Análisis estático de código - SAST<br/>
+:bookmark: Análisis dinámico de aplicaciones - DAST<br/>
+:bookmark: Análisis de composición de software - SCA<br/>
+:bookmark: Análisis de componentes y dependencias - SBOM<br/>
+:bookmark: Pruebas manuales de seguridad web<br/>
+:bookmark: Pentesting de aplicaciones web<br/>
+:bookmark: Gestión de vulnerabilidades<br/>
+:bookmark: Protección de aplicaciones web - WAF<br/>
 
----
+</td>
+<td width="65%" valign="top">
 
 <h3 align="left">Herramientas de seguridad:</h3>
 
-| Icono | Herramienta | Área |
-|:---:|---|---|
-| <img src="https://cdn.simpleicons.org/sonarqube" width="30" height="30" alt="SonarQube"/> | **SonarQube** | SAST |
-| <img src="https://cdn.simpleicons.org/semgrep" width="30" height="30" alt="Semgrep"/> | **Semgrep** | SAST |
-| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **OWASP ZAP** | DAST |
-| <img src="https://cdn.simpleicons.org/python" width="30" height="30" alt="Python"/> | **Wapiti** | DAST complementario |
-| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **Dependency-Check** | SCA |
-| <img src="https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-symbol.png" width="30" height="30" alt="Dependency-Track"/> | **Dependency-Track** | SBOM |
-| <img src="https://cdn.simpleicons.org/owasp" width="30" height="30" alt="OWASP"/> | **DefectDojo** | Gestión de vulnerabilidades |
-| <img src="https://cdn.simpleicons.org/nginx" width="30" height="30" alt="Nginx"/> | **ModSecurity** | WAF |
+<!-- Aquí irá la tabla de herramientas con iconos -->
 
+</td>
+</tr>
