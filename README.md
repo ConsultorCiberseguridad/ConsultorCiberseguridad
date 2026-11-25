@@ -53,21 +53,21 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/sonarqube.svg" width="60" height="60" alt="SonarQube"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/semgrep.svg" width="38" height="38" alt="Semgrep"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/semgrep.png" width="50" height="50" alt="Semgrep"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/zap.svg" width="60" height="60" alt="OWASP ZAP"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependencycheck.png" width="38" height="38" alt="Dependency-Check"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependencyTrack.png" width="38" height="38" alt="Dependency-Track"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="75" height="75" alt="ModSecurity"/>
 </p>
 
 
