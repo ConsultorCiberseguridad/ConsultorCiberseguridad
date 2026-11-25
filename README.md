@@ -40,84 +40,75 @@
 </p>
 
 
-<table>
-<tr>
-<td width="35%" valign="top">
 
-<h3 align="left">Técnicas de análisis de seguridad de aplicaciones:</h3>
+<table width="100%" border="0">
+  <tr>
+    <td width="42%" valign="top" align="left">
+      <h3 style="white-space: nowrap;">Técnicas de análisis de seguridad de aplicaciones</h3>
 
-:bookmark: Análisis estático de código - SAST<br/>
-:bookmark: Análisis dinámico de aplicaciones - DAST<br/>
-:bookmark: Análisis de composición de software - SCA<br/>
-:bookmark: Análisis de componentes y dependencias - SBOM<br/>
-:bookmark: Pruebas manuales de seguridad web<br/>
-:bookmark: Pentesting de aplicaciones web<br/>
-:bookmark: Gestión de vulnerabilidades<br/>
-:bookmark: Protección de aplicaciones web - WAF<br/>
+      <ul>
+        <li>SAST (Static Application Security Testing)</li>
+        <li>DAST (Dynamic Application Security Testing)</li>
+        <li>SCA (Software Composition Analysis)</li>
+        <li>SBOM (Software Bill of Materials)</li>
+        <li>Pruebas manuales de seguridad web</li>
+        <li>Pentesting de aplicaciones web</li>
+        <li>Gestión de vulnerabilidades</li>
+        <li>Protección de aplicaciones web (WAF)</li>
+      </ul>
+    </td>
 
-</td>
+    <td width="58%" valign="top" align="center">
+      <h3 align="center">Herramientas de seguridad</h3>
 
-<td width="65%" valign="top">
-
-<h3 align="left">Herramientas de seguridad:</h3>
-
-<table>
-<tr>
-<th>Icono</th>
-<th>Herramienta</th>
-<th>Área</th>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/sonarqube.svg" width="28" alt="SonarQube"/></td>
-<td>SonarQube</td>
-<td>SAST</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/semgrep.svg" width="28" alt="Semgrep"/></td>
-<td>Semgrep</td>
-<td>SAST</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/zap.svg" width="28" alt="OWASP ZAP"/></td>
-<td>OWASP ZAP</td>
-<td>DAST</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/wapiti.png" width="28" alt="Wapiti"/></td>
-<td>Wapiti</td>
-<td>DAST</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/dependency-check.png" width="28" alt="Dependency-Check"/></td>
-<td>Dependency-Check</td>
-<td>SCA</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/dependency-track.png" width="28" alt="Dependency-Track"/></td>
-<td>Dependency-Track</td>
-<td>SBOM</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/defectdojo.png" width="28" alt="DefectDojo"/></td>
-<td>DefectDojo</td>
-<td>Gestión de vulnerabilidades</td>
-</tr>
-
-<tr>
-<td align="center"><img src="./assets/icons/modsecurity.png" width="28" alt="ModSecurity"/></td>
-<td>ModSecurity</td>
-<td>WAF</td>
-</tr>
-
+      <table border="0" align="center">
+        <tr>
+          <th align="center">Icono</th>
+          <th align="left">Herramienta</th>
+          <th align="left">Área</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/sonarqube.svg" width="28"></td>
+          <td>SonarQube</td>
+          <td>SAST</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/semgrep.svg" width="28"></td>
+          <td>Semgrep</td>
+          <td>SAST</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/zap.svg" width="28"></td>
+          <td>OWASP ZAP</td>
+          <td>DAST</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/wapiti.png" width="28"></td>
+          <td>Wapiti</td>
+          <td>DAST</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/dependency-check.png" width="28"></td>
+          <td>Dependency-Check</td>
+          <td>SCA</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/dependency-track.png" width="28"></td>
+          <td>Dependency-Track</td>
+          <td>SBOM</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/defectdojo.png" width="28"></td>
+          <td>DefectDojo</td>
+          <td>Gestión de vulnerabilidades</td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/modsecurity.png" width="28"></td>
+          <td>ModSecurity</td>
+          <td>WAF</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
-</td>
-</tr>
-</table>
