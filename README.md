@@ -40,6 +40,10 @@
 </p>
 
 
+<table>
+<tr>
+<td width="35%" valign="top">
+
 <h3 align="left">Técnicas de análisis de seguridad de aplicaciones:</h3>
 
 :bookmark: Análisis estático de código - SAST<br/>
@@ -52,11 +56,68 @@
 :bookmark: Protección de aplicaciones web - WAF<br/>
 
 </td>
+
 <td width="65%" valign="top">
 
 <h3 align="left">Herramientas de seguridad:</h3>
 
-<!-- Aquí irá la tabla de herramientas con iconos -->
+<table>
+<tr>
+<th>Icono</th>
+<th>Herramienta</th>
+<th>Área</th>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/sonarqube.svg" width="28" alt="SonarQube"/></td>
+<td>SonarQube</td>
+<td>SAST</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/semgrep.svg" width="28" alt="Semgrep"/></td>
+<td>Semgrep</td>
+<td>SAST</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/zap.svg" width="28" alt="OWASP ZAP"/></td>
+<td>OWASP ZAP</td>
+<td>DAST</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/wapiti.png" width="28" alt="Wapiti"/></td>
+<td>Wapiti</td>
+<td>DAST</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/dependency-check.png" width="28" alt="Dependency-Check"/></td>
+<td>Dependency-Check</td>
+<td>SCA</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/dependency-track.png" width="28" alt="Dependency-Track"/></td>
+<td>Dependency-Track</td>
+<td>SBOM</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/defectdojo.png" width="28" alt="DefectDojo"/></td>
+<td>DefectDojo</td>
+<td>Gestión de vulnerabilidades</td>
+</tr>
+
+<tr>
+<td align="center"><img src="./assets/icons/modsecurity.png" width="28" alt="ModSecurity"/></td>
+<td>ModSecurity</td>
+<td>WAF</td>
+</tr>
+
+</table>
 
 </td>
 </tr>
+</table>
