@@ -52,21 +52,21 @@
 
 
 <p align="left">
-  <img src="./assets/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
+  <img src="./assets/sonarqube.svg" width="50" height="50" alt="SonarQube"/>
   &nbsp;
-  <img src="./assets/icons/semgrep.svg" width="38" height="38" alt="Semgrep"/>
+  <img src="./assets/semgrep.svg" width="38" height="38" alt="Semgrep"/>
   &nbsp;
-  <img src="./assets/icons/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
+  <img src="./assets/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
   &nbsp;
-  <img src="./assets/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
+  <img src="./assets/wapiti.png" width="38" height="38" alt="Wapiti"/>
   &nbsp;
-  <img src="./assets/icons/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
+  <img src="./assets/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
   &nbsp;
-  <img src="./assets/icons/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
+  <img src="./assets/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
   &nbsp;
-  <img src="./assets/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
+  <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="./assets/icons/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
+  <img src="./assets/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
 </p>
 
 
