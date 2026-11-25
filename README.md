@@ -51,6 +51,24 @@
 :bookmark:   Protección de aplicaciones web - WAF
 
 
+<p align="left">
+  <img src="./assets/icons/sonarqube.svg" width="38" height="38" alt="SonarQube"/>
+  &nbsp;
+  <img src="./assets/icons/semgrep.svg" width="38" height="38" alt="Semgrep"/>
+  &nbsp;
+  <img src="./assets/icons/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
+  &nbsp;
+  <img src="./assets/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
+  &nbsp;
+  <img src="./assets/icons/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
+  &nbsp;
+  <img src="./assets/icons/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
+  &nbsp;
+  <img src="./assets/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
+  &nbsp;
+  <img src="./assets/icons/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
+</p>
+
 
 
 
