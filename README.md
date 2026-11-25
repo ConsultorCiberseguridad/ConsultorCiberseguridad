@@ -41,33 +41,28 @@
 
 
 
-
 <table width="100%" border="0">
   <tr>
-    <td width="42%" valign="top" align="left">
-      <h3 style="white-space: nowrap;">Técnicas de análisis de seguridad de aplicaciones</h3>
+    <!-- COLUMNA IZQUIERDA -->
+    <td width="55%" valign="top" align="left">
+      <h3 align="left">Técnicas que practico para buscar vulnerabilidades en el software:</h3>
 
-      <ul>
-        <li>SAST (Static Application Security Testing)</li>
-        <li>DAST (Dynamic Application Security Testing)</li>
-        <li>SCA (Software Composition Analysis)</li>
-        <li>SBOM (Software Bill of Materials)</li>
-        <li>Pruebas manuales de seguridad web</li>
-        <li>Pentesting de aplicaciones web</li>
-        <li>Gestión de vulnerabilidades</li>
-        <li>Protección de aplicaciones web (WAF)</li>
-      </ul>
+      :bookmark: Análisis estático - SAST
+
+      :bookmark: Análisis dinámico - DAST
+
+      :bookmark: Análisis de composición - SCA
+
+      :bookmark: Análisis interactivo - IAST
+
+      :bookmark: Pentesting Web
     </td>
 
-    <td width="58%" valign="top" align="center">
+    <!-- COLUMNA DERECHA -->
+    <td width="45%" valign="middle" align="center">
       <h3 align="center">Herramientas de seguridad</h3>
 
       <table border="0" align="center">
-        <tr>
-          <th align="center">Icono</th>
-          <th align="left">Herramienta</th>
-          <th align="left">Área</th>
-        </tr>
         <tr>
           <td align="center"><img src="./assets/icons/sonarqube.svg" width="28"></td>
           <td>SonarQube</td>
@@ -101,7 +96,7 @@
         <tr>
           <td align="center"><img src="./assets/icons/defectdojo.png" width="28"></td>
           <td>DefectDojo</td>
-          <td>Gestión de vulnerabilidades</td>
+          <td>Gestión</td>
         </tr>
         <tr>
           <td align="center"><img src="./assets/icons/modsecurity.png" width="28"></td>
@@ -112,4 +107,3 @@
     </td>
   </tr>
 </table>
-
