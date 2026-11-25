@@ -61,13 +61,13 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependencycheck.png" width="60" height="35" alt="Dependency-Check"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependencycheck.png" width="38" height="38" alt="Dependency-Check"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/dependencyTrack.png" width="38" height="38" alt="Dependency-Track"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="38" height="38" alt="ModSecurity"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="60" height="38" alt="ModSecurity"/>
 </p>
 
 
