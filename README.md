@@ -66,7 +66,7 @@
   &nbsp;
   <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="./assets/modsecurity.png" width="55" height="55" alt="modsecurity"/>
+  <img src="./assets/modsecurity.png" width="70" height="70" alt="modsecurity"/>
 </p>
 
 
