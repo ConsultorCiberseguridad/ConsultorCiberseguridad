@@ -67,7 +67,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="55" height="55" alt="ModSecurity"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="50" height="50" alt="ModSecurity"/>
 </p>
 
 
