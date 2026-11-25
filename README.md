@@ -52,17 +52,17 @@
 
 
 <p align="left">
-  <img src="./assets/sonarqube.svg" width="50" height="50" alt="SonarQube"/>
+  <img src="./assets/sonarqube.svg" width="55" height="55" alt="SonarQube"/>
   &nbsp;
   <img src="./assets/semgrep.svg" width="38" height="38" alt="Semgrep"/>
   &nbsp;
-  <img src="./assets/zap.svg" width="38" height="38" alt="OWASP ZAP"/>
+  <img src="./assets/zap.svg" width="55" height="55" alt="OWASP ZAP"/>
   &nbsp;
-  <img src="./assets/wapiti.png" width="38" height="38" alt="Wapiti"/>
+  <img src="./assets/wapiti.png" width="45" height="45" alt="Wapiti"/>
   &nbsp;
-  <img src="./assets/dependency-check.png" width="38" height="38" alt="Dependency-Check"/>
+  <img src="./assets/dependencycheck.png" width="38" height="38" alt="Dependency-Check"/>
   &nbsp;
-  <img src="./assets/dependency-track.png" width="38" height="38" alt="Dependency-Track"/>
+  <img src="./assets/dependencyTrack.png" width="38" height="38" alt="Dependency-Track"/>
   &nbsp;
   <img src="./assets/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
