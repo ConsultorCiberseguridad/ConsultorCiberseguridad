@@ -4,12 +4,12 @@
 
 <h3 align="left">Formación:</h3>
 
-:white_check_mark:    Analista programador
-:white_check_mark:    Analista de sistemas de computación
-:white_check_mark:    Licenciado en Informática
-:white_check_mark:    Profesor de Informática
-:white_check_mark:    Especialista en Cibercrimen
-:arrow_right:        Maestrando en Ciberdefensa y Ciberseguridad
+:white_check_mark: Analista programador<br/>
+:white_check_mark: Analista de sistemas de computación<br/>
+:white_check_mark: Licenciado en Informática<br/>
+:white_check_mark: Profesor de Informática<br/>
+:white_check_mark: Especialista en Cibercrimen<br/>
+:arrow_right: Maestrando en Ciberdefensa y Ciberseguridad<br/>
 
 <h3 align="left">Tecnologías y lenguajes:</h3>
 
@@ -48,14 +48,14 @@
 
 <h3 align="left">Técnicas de análisis de seguridad de aplicaciones:</h3>
 
-:bookmark:   Análisis estático de código - SAST
-:bookmark:   Análisis dinámico de aplicaciones - DAST
-:bookmark:   Análisis de composición de software - SCA
-:bookmark:   Análisis de componentes y dependencias - SBOM
-:bookmark:   Pruebas manuales de seguridad web
-:bookmark:   Pentesting de aplicaciones web
-:bookmark:   Gestión de vulnerabilidades
-:bookmark:   Protección de aplicaciones web - WAF
+:bookmark: Análisis estático de código - SAST<br/>
+:bookmark: Análisis dinámico de aplicaciones - DAST<br/>
+:bookmark: Análisis de composición de software - SCA<br/>
+:bookmark: Análisis de componentes y dependencias - SBOM<br/>
+:bookmark: Pruebas manuales de seguridad web<br/>
+:bookmark: Pentesting de aplicaciones web<br/>
+:bookmark: Gestión de vulnerabilidades<br/>
+:bookmark: Protección de aplicaciones web - WAF<br/>
 
 <h3 align="left">Herramientas de seguridad:</h3>
 
@@ -85,3 +85,4 @@
 <img src="https://cdn.simpleicons.org/nginx" alt="ModSecurity" width="40" height="40"/>
 </a>
 </p>
+
