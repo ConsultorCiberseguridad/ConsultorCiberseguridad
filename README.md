@@ -57,6 +57,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="40" height="40"/>
+</a>
+<a href="https://yaml.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/>
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </a>
