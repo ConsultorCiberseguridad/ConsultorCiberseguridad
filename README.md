@@ -53,11 +53,11 @@
 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/sonarqube.svg" width="60" height="60" alt="SonarQube"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/sonarqube.svg" width="55" height="55" alt="SonarQube"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/semgrep.png" width="38" height="38" alt="Semgrep"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/zap.svg" width="60" height="60" alt="OWASP ZAP"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/zap.svg" width="55" height="55" alt="OWASP ZAP"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/wapiti.png" width="38" height="38" alt="Wapiti"/>
   &nbsp;
@@ -67,7 +67,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/defectdojo.png" width="38" height="38" alt="DefectDojo"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="70" height="70" alt="ModSecurity"/>
+  <img src="https://raw.githubusercontent.com/ConsultorCiberseguridad/appsec-profile-assets/main/icons/modsecurity.png" width="60" height="60" alt="ModSecurity"/>
 </p>
 
 
